@@ -22,6 +22,9 @@ I consider myself a full stack developer because I love every aspect of the proc
 ##### Errand Runner
 - A project to connect people who live/work near each other and help each other with tasks, built with a rails backend and an Ionic frontend.
 
+##### To Do
+- A simple to do list written in js with an angular framework: https://github.com/MollieS/todo_challenge
+
 
 ## Education
 
