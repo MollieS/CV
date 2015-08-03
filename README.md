@@ -29,7 +29,7 @@ I consider myself a full stack developer because I love every aspect of the proc
 
 
 ##### SOLID
-- I am keen in all the code I write to produce the best possible code which is readable, reusable, clean and elegant.
+- I am keen that all the code I produce is the best possible code I can write, which is readable, reusable, clean and elegant.  I will always try to adhere to the SOLID principles to ship the highest quality code.
 
 
 ## Education
